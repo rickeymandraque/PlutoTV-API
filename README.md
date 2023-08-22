@@ -4,7 +4,8 @@
 
 ![PlutoTV Logo](https://theme.zdassets.com/theme_assets/496583/3858e8e3a2863ec7bb974be916d374968f5674d7.png)
 
-Bienvenue dans le dépôt PlutoTV API Reverse Engineering ! Ce dépôt vise à fournir une documentation non officielle et des outils pour comprendre et explorer l'API de PlutoTV.  
+**Bienvenue dans le dépôt PlutoTV API Reverse Engineering !**
+Ce dépôt vise à fournir une documentation non officielle et des outils pour comprendre et explorer l'API de PlutoTV.  
 L'objectif est de comprendre la structure sous-jacente de l'API afin que les développeurs puissent créer leurs propres applications, scripts et outils pour interagir avec le contenu de PlutoTV.
 
 ## Contenu du Dépôt
@@ -30,9 +31,12 @@ L'objectif est de comprendre la structure sous-jacente de l'API afin que les dé
 
 ## Introduction
 
-Le dépôt PlutoTV API Reverse Engineering est dédié à l'exploration des points d'extrémité de l'API, des paramètres et des structures de données utilisés par la plateforme PlutoTV. PlutoTV est un service de streaming populaire offrant une large gamme de contenus, notamment des chaînes de télévision en direct et des émissions à la demande. Ce dépôt sert de ressource pour les développeurs intéressés à comprendre comment accéder et utiliser le contenu de PlutoTV de manière programmatique.
+Le dépôt PlutoTV API Reverse Engineering est dédié à l'exploration des points d'extrémité de l'API, des paramètres et des structures de données utilisés par la plateforme PlutoTV. 
+PlutoTV est un service de streaming populaire offrant une large gamme de contenus, notamment des chaînes de télévision en direct et des émissions à la demande. 
+Ce dépôt sert de ressource pour les développeurs intéressés à comprendre comment accéder et utiliser le contenu de PlutoTV de manière programmatique.
 
-Ce dépôt a été créé dans le but de fournir une documentation non-officielle pour l'API de PlutoTV, une plateforme de streaming de contenu en ligne. L'objectif est d'offrir une compréhension plus approfondie de l'API, en particulier pour la création de scripts et de playlists personnalisées pour les flux en direct (live) et les vidéos à la demande (VOD).
+Ce dépôt a été créé dans le but de fournir une documentation non-officielle pour l'API de PlutoTV, une plateforme de streaming de contenu en ligne. 
+L'objectif est d'offrir une compréhension plus approfondie de l'API, en particulier pour la création de scripts et de playlists personnalisées pour les flux en direct (live) et les vidéos à la demande (VOD).
 
 L'inspiration pour ce projet est venue d'un script Python trouvé dans le dépôt [Lunatixz/KODI_Addons](https://github.com/Lunatixz/KODI_Addons) et du désir de développer des scripts similaires en utilisant des commandes Bash.
 
@@ -53,7 +57,8 @@ Ce dépôt contiendra également des scripts bash pour faciliter l'utilisation d
 
 ## Motivation
 
-La motivation derrière ce projet est de combler le manque de documentation officielle pour l'API de PlutoTV. Bien que certains scripts et outils existent pour interagir avec le contenu de PlutoTV, une source complète et précise d'informations sur les points d'extrémité de l'API et les paramètres fait souvent défaut. Ce dépôt vise à combler cette lacune en fournissant une documentation claire, des exemples et des explications pour l'API de PlutoTV.
+La motivation derrière ce projet est de combler le manque de documentation officielle pour l'API de PlutoTV. Bien que certains scripts et outils existent pour interagir avec le contenu de PlutoTV, une source complète et précise d'informations sur les points d'extrémité de l'API et les paramètres fait souvent défaut. 
+Ce dépôt vise à combler cette lacune en fournissant une documentation claire, des exemples et des explications pour l'API de PlutoTV.
 
 ## Structure du dépôt
 
@@ -74,9 +79,12 @@ Le répertoire `scripts` contient des scripts d'exemple qui démontrent comment 
 
 ## Contribution
 
-Les contributions à ce dépôt sont les bienvenues. Si vous avez des connaissances ou des informations supplémentaires sur l'API de PlutoTV, n'hésitez pas à les partager ici. Vous pouvez soumettre des pull requests pour ajouter des fonctionnalités, des corrections ou des améliorations à la documentation et aux exemples de scripts.
+Les contributions à ce dépôt sont les bienvenues. 
+Si vous avez des connaissances ou des informations supplémentaires sur l'API de PlutoTV, n'hésitez pas à les partager ici. 
+Vous pouvez soumettre des pull requests pour ajouter des fonctionnalités, des corrections ou des améliorations à la documentation et aux exemples de scripts.
 
-Les contributions à ce dépôt sont les bienvenues ! Si vous avez des idées, des améliorations ou de nouveaux scripts à partager, n'hésitez pas à créer des pull requests. De plus, si vous trouvez des inexactitudes ou des informations manquantes dans la documentation, veuillez nous le faire savoir en ouvrant une issue.
+Les contributions à ce dépôt sont les bienvenues ! 
+Si vous avez des idées, des améliorations ou de nouveaux scripts à partager, n'hésitez pas à créer des pull requests. De plus, si vous trouvez des inexactitudes ou des informations manquantes dans la documentation, veuillez nous le faire savoir en ouvrant une issue.
 
 ## Travail en Cours (WIP)
 
