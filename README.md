@@ -33,10 +33,13 @@ L'objectif est de comprendre la structure sous-jacente de l'API afin que les dé
 ## Introduction
 
 Le dépôt PlutoTV API Reverse Engineering est dédié à l'exploration des points d'extrémité de l'API, des paramètres et des structures de données utilisés par la plateforme PlutoTV. 
+
 PlutoTV est un service de streaming populaire offrant une large gamme de contenus, notamment des chaînes de télévision en direct et des émissions à la demande. 
+
 Ce dépôt sert de ressource pour les développeurs intéressés à comprendre comment accéder et utiliser le contenu de PlutoTV de manière programmatique.
 
 Ce dépôt a été créé dans le but de fournir une documentation non-officielle pour l'API de PlutoTV, une plateforme de streaming de contenu en ligne. 
+
 L'objectif est d'offrir une compréhension plus approfondie de l'API, en particulier pour la création de scripts et de playlists personnalisées pour les flux en direct (live) et les vidéos à la demande (VOD).
 
 L'inspiration pour ce projet est venue d'un script Python trouvé dans le dépôt [Lunatixz/KODI_Addons](https://github.com/Lunatixz/KODI_Addons) et du désir de développer des scripts similaires en utilisant des commandes Bash.
@@ -58,7 +61,9 @@ Ce dépôt contiendra également des scripts bash pour faciliter l'utilisation d
 
 ## Motivation
 
-La motivation derrière ce projet est de combler le manque de documentation officielle pour l'API de PlutoTV. Bien que certains scripts et outils existent pour interagir avec le contenu de PlutoTV, une source complète et précise d'informations sur les points d'extrémité de l'API et les paramètres fait souvent défaut. 
+La motivation derrière ce projet est de combler le manque de documentation officielle pour l'API de PlutoTV. 
+
+Bien que certains scripts et outils existent pour interagir avec le contenu de PlutoTV, une source complète et précise d'informations sur les points d'extrémité de l'API et les paramètres fait souvent défaut. 
 Ce dépôt vise à combler cette lacune en fournissant une documentation claire, des exemples et des explications pour l'API de PlutoTV.
 
 ## Structure du dépôt
@@ -72,7 +77,9 @@ Le dépôt est organisé de la manière suivante :
 
 ## Documentation
 
-Le répertoire `documentation` contient des explications détaillées sur les différents points d'extrémité de l'API, les paramètres de requête et leur utilisation prévue. Il inclut des informations sur la manière de construire des requêtes API, d'interpréter les réponses et de tirer le meilleur parti des données disponibles. La documentation est disponible en anglais et en français.
+Le répertoire `documentation` contient des explications détaillées sur les différents points d'extrémité de l'API, les paramètres de requête et leur utilisation prévue. 
+
+Il inclut des informations sur la manière de construire des requêtes API, d'interpréter les réponses et de tirer le meilleur parti des données disponibles. La documentation est disponible en anglais et en français.
 
 ## Scripts
 
@@ -94,9 +101,16 @@ Ceci n'est que le début de l'aventure. Je m'efforcerai de mettre à jour et d'e
 
 ## Licence
 
-Ce dépôt est destiné à être librement consultable et utilisable par la communauté. Vous êtes encouragé à utiliser les informations et les scripts fournis ici pour vos projets personnels. Si vous utilisez le travail présenté ici, veuillez nous citer et ajouter une référence appropriée à ce dépôt.
+Ce dépôt est destiné à être librement consultable et utilisable par la communauté. 
+
+Vous êtes encouragé à utiliser les informations et les scripts fournis ici pour vos projets personnels. Si vous utilisez le travail présenté ici, veuillez nous citer et ajouter une référence appropriée à ce dépôt.
+
 Ce dépôt n'est pas sous licence pour le moment, ce qui signifie que vous êtes libre d'utiliser, de modifier et de distribuer le code et la documentation, à condition d'inclure l'avis de licence original.
 
-**Avertissement**: Ce dépôt n'est pas officiellement affilié à PlutoTV. Il s'agit d'un effort communautaire pour comprendre et utiliser l'API de PlutoTV. Utilisez les informations et les scripts fournis de manière responsable et conformément aux conditions d'utilisation et aux politiques de PlutoTV.
+**Avertissement**: Ce dépôt n'est pas officiellement affilié à PlutoTV. 
+
+Il s'agit d'un effort communautaire pour comprendre et utiliser l'API de PlutoTV. 
+
+Utilisez les informations et les scripts fournis de manière responsable et conformément aux conditions d'utilisation et aux politiques de PlutoTV.
 
 **Avertissement:** Ce projet est à des fins éducatives et de recherche. Veuillez respecter les conditions d'utilisation de PlutoTV et n'effectuez aucune action en violation de leurs politiques.
