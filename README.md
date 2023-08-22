@@ -1,4 +1,4 @@
-# PlutoTV API Reverse Engineering
+# PlutoTV API Reverse Engineering Exploration
 
 ## ⚠ Readme en cours d'élaboration ⚠
 
