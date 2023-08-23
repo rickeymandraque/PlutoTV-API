@@ -129,5 +129,7 @@ Voici la liste des paramètres utilisés dans l'URL ainsi que leur utilité :
 - **includeItems:** Un booléen qui indique si les détails des éléments tels que les sous-catégories, séries, etc., doivent être inclus dans la réponse. Par exemple, `includeItems=true` ou `includeItems=false`.
 
 - **deviceType:** Utilisé pour indiquer le type d'appareil à partir duquel vous accédez à l'API. Par exemple, `deviceType=web`, `deviceType=android`, `deviceType=ios`, etc.
+- **itemoffset** Utilisé pour spécifier le nombre d'entrées de données à récupérer dans les items.
+- **itempage** Utilisé pour naviguer entre les pages de résultat des items lorsque la liste est paginée.
 
 Ces paramètres vous permettent de personnaliser les résultats renvoyés par l'API de Pluto TV en fonction de vos besoins et de votre plateforme d'accès.
